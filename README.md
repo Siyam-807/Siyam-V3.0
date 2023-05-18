@@ -7,6 +7,6 @@
 
 git clone https://github.com/Siyam-807/Siyam-V3.0
 
-cd
+cd 
 
-python Siyam-V1.0.py
+python Siyam-V2.0py
